@@ -3,12 +3,7 @@
 # Created On : October 19 2015
 # Purpose    : To start the AWS instances using instance ID
 
-from cm_api.api_client import ApiResource
-import socket
-import time
 import boto.ec2
-import time
-import logging
 
 logging.basicConfig()
 
