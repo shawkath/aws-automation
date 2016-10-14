@@ -1,5 +1,5 @@
-# aws-automation
-Start/Stop AWS instances using Python
+# aws-ec2-automation
+Start/Stop AWS EC2 instances using Python
 
 License : MIT
 
